@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0773b6ea4e9924bdd91b891f1f644016, type: 3}
+  m_Name: InstrumentSO 2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6225749999475451084, guid: e04a4f4d146924047ae0ca40898cf2c3, type: 3}
+  objectName: Instrument 2
+  clip: {fileID: 8300000, guid: 41be9959c50bc4e65a3040b9e4e3b008, type: 3}
+  measureCount: 4
